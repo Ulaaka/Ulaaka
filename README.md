@@ -1,10 +1,13 @@
-Hello, I am **Nyamdorj**
+<div align="center">
 
-Computer Science with Software Development Bsc candidate @  University of Liverpool
+# Hello, I am **Nyamdorj**
+
+Computer Science with Software Development BSc candidate @ University of Liverpool
 
 <details>
+<summary>💻 Click for Details</summary>
 
-<summary> 💻 Click for Details </summary>
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -15,7 +18,15 @@ Computer Science with Software Development Bsc candidate @  University of Liverp
 ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
+<br>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ulaaka&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulaaka&layout=compact)
+
 </details>
+
+════ ⋆ ════  
+From Nyamdorj Bat-Erdene
+
+</div>
