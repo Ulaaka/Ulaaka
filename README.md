@@ -43,7 +43,7 @@
 ## Мэргэжлийн чадварууд
 
 - **Программын хэлүүд:** Python, C, C++, R, Java, HTML/CSS, SQL, Objective-C/Swift
-- **Frameworks & Libraries:** PyTorch, NumPy, Pandas, PyQt5, CustomTkinter, BeautifulSoup, Scikit-Learn, Matplotlib, Transformers, Hugging Face
+- **Frameworks & Libraries:** PyTorch, NumPy, Pandas, Polars, Pyspark, PyQt5, CustomTkinter, BeautifulSoup, Scikit-Learn, Matplotlib, Hugging Face Transformers
 - **Tools:** Git, VSCode, Makefile, MongoDB, MySQL, Slurm, Xcode, SwiftUI, Rstudio
 
 ## Хувийн чадварууд
